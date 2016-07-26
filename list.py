@@ -70,3 +70,7 @@ print d3
 str = None
 if not str:
 	print "str is empty"
+	
+zij = """ aAfsdfasfdg """ \
+	  """ aAfsdfasfdg """
+print zij
