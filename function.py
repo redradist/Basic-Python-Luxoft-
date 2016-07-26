@@ -1,3 +1,5 @@
+from loop import ["loop"]
+
 def func1():
 	"""Documentation"""
 	
@@ -84,3 +86,5 @@ print VAT_price_calculator(2.3)
 # Task 5, Task 6, Task 7
 # import function
 # function.VAT_price_calculator(2.3)
+
+
